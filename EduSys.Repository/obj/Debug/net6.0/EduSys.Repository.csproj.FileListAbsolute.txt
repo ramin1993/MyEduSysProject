@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Repository.deps.json
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Repository.runtimeconfig.json
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Repository.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Repository.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Core.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Core.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.csproj.CopyComplete
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\refint\EduSys.Repository.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.genruntimeconfig.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\ref\EduSys.Repository.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Repository.deps.json
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Repository.runtimeconfig.json
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Repository.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Repository.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Core.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\bin\Debug\net6.0\EduSys.Core.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\refint\EduSys.Repository.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.genruntimeconfig.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\ref\EduSys.Repository.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.Repository.sourcelink.json
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Repository\obj\Debug\net6.0\EduSys.R.F6BF8D4C.Up2Date

@@ -1,0 +1,7 @@
+  API:
+ http- http://localhost:5081
+ https- https://localhost:7180
+
+ WEB:
+ http- http://localhost:5185
+ https- https://localhost:7131

@@ -1,0 +1,39 @@
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Caching.deps.json
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Caching.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Caching.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Core.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Repository.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Service.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Service.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Core.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Repository.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.AssemblyInfo.cs
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.csproj.CopyComplete
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\refint\EduSys.Caching.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\ref\EduSys.Caching.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Caching.deps.json
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Caching.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Caching.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Core.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Repository.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Service.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Service.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Core.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\bin\Debug\net6.0\EduSys.Repository.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.AssemblyInfo.cs
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\refint\EduSys.Caching.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\ref\EduSys.Caching.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.Caching.sourcelink.json
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Caching\obj\Debug\net6.0\EduSys.C.0659DDBA.Up2Date

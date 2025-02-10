@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Service.deps.json
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Service.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Service.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Core.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Repository.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Repository.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Core.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.csproj.CopyComplete
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\refint\EduSys.Service.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\ref\EduSys.Service.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Service.deps.json
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Service.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Service.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Core.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Repository.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Repository.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\bin\Debug\net6.0\EduSys.Core.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\refint\EduSys.Service.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\ref\EduSys.Service.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.Service.sourcelink.json
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Service\obj\Debug\net6.0\EduSys.S.F663261E.Up2Date

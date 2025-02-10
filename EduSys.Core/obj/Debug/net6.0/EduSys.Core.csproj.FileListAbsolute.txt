@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\bin\Debug\net6.0\EduSys.Core.deps.json
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\bin\Debug\net6.0\EduSys.Core.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\bin\Debug\net6.0\EduSys.Core.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\refint\EduSys.Core.dll
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.pdb
+C:\Users\User\Desktop\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\ref\EduSys.Core.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\bin\Debug\net6.0\EduSys.Core.deps.json
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\bin\Debug\net6.0\EduSys.Core.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\bin\Debug\net6.0\EduSys.Core.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\refint\EduSys.Core.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.pdb
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\ref\EduSys.Core.dll
+C:\Users\User\Desktop\C# folder\C#Course\lessons\Iyul\24\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.sourcelink.json
